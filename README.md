@@ -5,6 +5,9 @@
 ![](/generated/overview.svg#gh-dark-mode-only)
 ![](/generated/languages.svg#gh-dark-mode-only)
 
+![](/generated/overview.svg#gh-light-mode-only)
+![](/generated/languages.svg#gh-light-mode-only)
+
 </a>
 
 Generate visualizations of GitHub user and repository statistics using GitHub
