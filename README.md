@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](/generated/overview.svg)
-![](/generated/languages.svg)
+![](/generated/overview.svg#gh-dark-mode-only)
+![](/generated/languages.svg#gh-dark-mode-only)
 
 </a>
 
